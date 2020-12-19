@@ -3,7 +3,7 @@
 	"private": true,
 	"dependencies": {
 		"element-ui": "^2.3.4",
-		"vue": "^2.5.16"
+		"vue": "^2.6.12"
 	},
 	"devDependencies": {
 		"aspnet-webpack": "^2.0.1",
