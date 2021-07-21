@@ -3,7 +3,7 @@
 	"private": true,
 	"dependencies": {
 		"element-ui": "^2.3.4",
-		"vue": "^2.5.16"
+		"vue": "^2.6.14"
 	},
 	"devDependencies": {
 		"aspnet-webpack": "^2.0.1",
@@ -20,7 +20,7 @@
 		"url-loader": "^0.5.8",
 		"vue-loader": "^13.3.0",
 		"vue-router": "^2.3.0",
-		"vue-template-compiler": "^2.5.16",
+		"vue-template-compiler": "^2.6.14",
 		"webpack": "^2.4.1",
 		"webpack-hot-middleware": "^2.12.2",
 		"extract-text-webpack-plugin": "^2.0.0-rc",
