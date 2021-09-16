@@ -21,8 +21,8 @@
 		"vue-loader": "^13.3.0",
 		"vue-router": "^2.3.0",
 		"vue-template-compiler": "^2.5.16",
-		"webpack": "^2.4.1",
-		"webpack-hot-middleware": "^2.12.2",
+		"webpack": "^4.0.0",
+		"webpack-hot-middleware": "^2.25.1",
 		"extract-text-webpack-plugin": "^2.0.0-rc",
 		"typescript": "^2.2.1",
 		"awesome-typescript-loader": "^3.0.0"
