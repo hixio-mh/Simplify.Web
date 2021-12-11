@@ -2,7 +2,7 @@
 	"name": "element-starter",
 	"private": true,
 	"dependencies": {
-		"element-ui": "^2.3.4",
+		"element-ui": "^2.15.7",
 		"vue": "^2.5.16"
 	},
 	"devDependencies": {
